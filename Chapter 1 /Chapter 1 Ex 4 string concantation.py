@@ -3,8 +3,11 @@
 """
 Created on Thu Sep 21 15:45:52 2023
 
-@author: rzakir
+@author: FAHAD TATARI
 Chapter 1 Ex 4 string concatination
+Write three strings in different variables and print the output as one string.      
+
+
 """
 
 string1 = "Hello"

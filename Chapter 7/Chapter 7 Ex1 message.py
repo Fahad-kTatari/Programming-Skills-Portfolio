@@ -3,8 +3,13 @@
 """
 Created on Thu Oct  5 18:16:52 2023
 
-@author: rzakir
+@author: FAHAD TATARI
 Chapter 7 Ex 1 message
+Write a function called display_message() that prints one sentence telling everyone what you are learning about in this chapter. Call the
+
+function, and make sure the message displays correctly.
+
+
 """
 
 def display_message():

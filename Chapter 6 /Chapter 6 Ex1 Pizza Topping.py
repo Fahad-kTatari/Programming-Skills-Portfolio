@@ -3,7 +3,12 @@
 """
 Created on Thu Oct  5 17:34:36 2023
 
-@author: rzakir
+@author: FAHAD TATARI
+Write a loop that prompts the user to enter a series of pizza toppings until they enter a 'quit' value. As they enter each topping,
+
+print a message saying you’ll add that topping to their pizza.
+
+
 """
 Chapter 6 Ex 1 Pizza toppings
 

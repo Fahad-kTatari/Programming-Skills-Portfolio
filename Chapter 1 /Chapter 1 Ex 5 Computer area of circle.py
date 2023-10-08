@@ -3,8 +3,9 @@
 """
 Created on Thu Sep 21 17:25:11 2023
 
-@author: rzakir
+@author: FAHAD TATARI
 chapter 1 Ex 5 computer area of circle
+Write a Python program which accepts the radius of a circle from the user and compute the area.
 """
 
 import math

@@ -3,8 +3,11 @@
 """
 Created on Thu Sep 21 15:33:45 2023
 
-@author: rzakir
-Chapter 1 Ex 3 print date and time 
+@author: FAHAD TATARI
+Chapter 1 Ex 3 print date and time
+Write a Python program to display the current date and time.
+
+
 """
 
 import datetime

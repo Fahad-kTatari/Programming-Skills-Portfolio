@@ -3,8 +3,13 @@
 """
 Created on Sun Oct  1 16:48:59 2023
 
-@author: rzakir
+@author: FAHAD TATARI
 Chapter 5 Ex 1 person
+Use a dictionary to store information about a person you know.Store their first name, last name, age, and the city in which they live. You
+
+should have keys such as first_name, last_name, age, and city. Print each piece of information stored in your dictionary.
+
+   
 """
 
 person_info = {

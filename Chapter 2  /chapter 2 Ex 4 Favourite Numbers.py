@@ -3,8 +3,9 @@
 """
 Created on Thu Sep 21 22:51:31 2023
 
-@author: rzakir
+@author: FAHAD TATARI
 chapter 2 Ex 4 Favourite Numbers
+Use a variable to represent your favorite number. Then,using that variable, create a message that reveals your favorite number. Print that message.
 """
 
 favorite_number = 9
